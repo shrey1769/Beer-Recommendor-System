@@ -12,7 +12,8 @@ Generated word frequencies to understand which beer attributes are most talked a
 I utilized two methods to build the recommendor system. One is a combination of VADER sentiment analysis and Bag of Words cosine similarity. Another is simply the cosine similarity using spacy word embeddings.
 
 
-Below is the snapshot of how the data looks like:
+Below is the snapshot of the scraped data:
+
 
 
 
