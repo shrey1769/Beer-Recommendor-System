@@ -13,11 +13,10 @@ I utilized two methods to build the recommendor system. One is a combination of 
 
 
 Below is the snapshot of the scraped data:
-| Beer Brand | Rating | Review |
-| Guinness Draught | 4.34 | from tap at irish pub in nÃ¶rdlingen in germany smells like caramel coffee perfectly balanced taste drinks like water carbonation makes for a very creamy amazing mouthfeel from tap is significantly better than guinness from a can                                  |
-| ---------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Guinness Draught | 3.8  | i mean its a guinness best beer ever for cooking 20 of these and a glass of milk and you have your rda for all essential calories and nutrients irish car bomb anyone totally amazing                                                                                  |
-| Guinness Draught | 4.23 | ive had guinness before but this is the first rst time trying a draught i poured this one into a beer mug produced a good head the feel of it was smooth and the taste was pretty darn good i was pleasantly surprised overall a good beer and one i will come back to |
-
+| product\_name    | user\_rating | product\_review                                                                                                                                                                                                                       |
+| ---------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Guinness Draught | 4.05         | smooth a little creamy but still bright medium bitterness                                                                                                                                                                             |
+| Guinness Draught | 4.34         | from tap at irish pub in nÃ¶rdlingen in germany smells like caramel coffee perfectly balanced taste drinks like water carbonation makes for a very creamy amazing mouthfeel from tap is significantly better than guinness from a can |
+| Guinness Draught | 3.8          | i mean its a guinness best beer ever for cooking 20 of these and a glass of milk and you have your rda for all essential calories and nutrients irish car bomb anyone totally amazing                                                 |
 
 
